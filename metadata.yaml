@@ -1,0 +1,26 @@
+_repo: Pung-Chow--13-The-Game-of-a-Hundred-Intelligences.-Also-known-as-Mah-Diao-Mah-Jong-Mah-Cheuk-__27318
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harr, Lew Lysle
+    birthdate: 1882
+    gutenberg_agent_id: '32624'
+    url: http://www.gutenberg.org/2009/agents/32624
+description: ''
+gutenberg_issued: '2008-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27318'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Mah jong'
+title: "Pung Chow\r\nThe Game of a Hundred Intelligences. Also known as Mah-Diao,\
+  \ Mah-Jong, Mah-Cheuk, Mah-Juck and Pe-Ling"
+url: http://www.gutenberg.org/ebooks/27318
